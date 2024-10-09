@@ -15,7 +15,7 @@ I do some works with **Lua** and **C**, contact me if you have some questions!
 
 - [**Flashback**](https://x.com/flashbackfr)
 - [**IceRolePlay.fr**](https://iceroleplay.fr/)
-- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) (https://discord.gg/iceDev):
+- [**Discord**](https://discord.gg/iceDev)
 
 ## 📚 General
 
