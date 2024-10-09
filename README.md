@@ -27,5 +27,10 @@ I do some works with **Lua** and **C**, contact me if you have some questions!
 
 ![CassouBrxn's Github stats](https://github-readme-stats.vercel.app/api?username=CassouBrxn&show_icons=true)
 
+## 🛠️ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=lua,html,css,c)](https://skillicons.dev)
+
+## 🔊 Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31asu4rfbgoj5fvm7r2mxtepbng4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=7e14ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
